@@ -16,13 +16,13 @@ This simple project demonstrates how to scrape table data from websites using Py
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/kingstondoesit/Scraping-Data.git
+    git clone https://github.com/kingstondoesit/scrape-test.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Scraping-Data
+    cd scrape-test
     ```
 
 3. Install the required libraries:
